@@ -16,6 +16,6 @@ $ git clone https://github.com/Ditz-Sanz/clasic
 
 $ cd clasic
 
-$ python clasic.py
+$ python clasickrek.py
 
 
